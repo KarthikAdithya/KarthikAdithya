@@ -1719,6 +1719,29 @@ body.modal{
   width: 100%;
   filter: grayscale(1);
 }
+
+.tokyo_tm_contact .details .job{
+	font-family: "Montserrat";
+	font-style: italic;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+
+.tokyo_tm_contact .details .job a{
+	text-decoration: none;
+	color: #787878;
+	
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.tokyo_tm_contact .details .job a:hover{
+	color: #000;
+	letter-spacing: 2px;
+}
+
 .tokyo_tm_contact .fields{
 	width: 100%;
 	height: auto;
