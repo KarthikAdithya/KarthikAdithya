@@ -1000,6 +1000,7 @@ h6 { font-size: 16px; }
 .tokyo_tm_portfolio .portfolio_list li .inner img{
 	opacity: 0;
 	min-width: 100%;
+	min-height: 100%;
 }
 .tokyo_tm_portfolio .portfolio_list li .inner .main_image{
 	position: absolute;
